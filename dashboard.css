@@ -1,0 +1,9 @@
+.close-modal-button {
+    color: #4CAF50;
+}
+
+#donateModal {
+    top:5%;
+    outline: none;
+    overflow:auto;
+} 
